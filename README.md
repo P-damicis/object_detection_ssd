@@ -1,4 +1,5 @@
 # Object Detection Training on Custom Dataset of a neural network (ssd_mobilenet_v1) and obtaining TFLite model.
+### Repository: <a href="https://github.com/P-damicis/object_detection_ssd.git">P-damicis/object_detection_ssd</a>
 ### Author: <a href="https://github.com/P-damicis">Pier Domenico d'Amicis</a>
 <br>
 In this repository there are some files needed to train a neural network for object detection that exploits the Tensorflow API.
@@ -9,3 +10,5 @@ In this repository there are some files needed to train a neural network for obj
   <li>follow the instructions
   <li>enjoy
 </ol>
+<br>
+At the end of the execution you will have obtained a TFLite model to use in your mobile application.
